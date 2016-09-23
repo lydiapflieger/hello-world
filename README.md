@@ -1,3 +1,3 @@
 # hello-world
-First Github Project
+Welcome to my First Github Project!
 My name is Lydia.
